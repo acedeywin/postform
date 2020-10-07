@@ -1,0 +1,10 @@
+.app {
+  background-color: brown;
+  color: azure;
+  margin: none;
+}
+
+.post {
+  text-align: left;
+  margin-left: 20px;
+}
